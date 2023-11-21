@@ -1,3 +1,6 @@
+My initial project introducing React with TypeScript based on Udemy training
+"React and Typescript: Build a Portfolio Project" by Stephen Grider
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
